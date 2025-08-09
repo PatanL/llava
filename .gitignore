@@ -35,3 +35,8 @@ ckpts*
 serve_images/
 
 *.zip
+
+create_subset.py
+
+images1/
+images1/*
